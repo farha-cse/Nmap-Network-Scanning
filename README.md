@@ -22,4 +22,6 @@ nmap scanme.nmap.org
 
 Nmap successfully identified active services and open ports on the target host.
 
+## Screenshot
 
+![Nmap Scan](screenshot.png)
