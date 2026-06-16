@@ -22,6 +22,4 @@ nmap scanme.nmap.org
 Nmap successfully identified active services and open ports on the target host.# Nmap-Network-Scanning
 Basic network scanning and port identification using Nmap.
 
-## Screenshot
 
-![Nmap Scan](screenshots/nmap-scan.png)
