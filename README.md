@@ -24,4 +24,4 @@ Nmap successfully identified active services and open ports on the target host.
 
 ## Screenshot
 
-![Nmap Scan](screenshot.png)
+![Nmap Scan](Screenshot 2026-06-16 at 2.53.25 PM.png)
