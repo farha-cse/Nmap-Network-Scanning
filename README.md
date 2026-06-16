@@ -19,7 +19,7 @@ nmap scanme.nmap.org
 - Several ports were filtered.
 
 ## Conclusion
-Nmap successfully identified active services and open ports on the target host.# Nmap-Network-Scanning
-Basic network scanning and port identification using Nmap.
+
+Nmap successfully identified active services and open ports on the target host.
 
 
